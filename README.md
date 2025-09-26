@@ -3,6 +3,7 @@ I'm currently a **first year Software Engineering student** at University of Inf
 
 ---
 ## About me 🧑
+Learning 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&logoSize=1000&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-58c4dc?logo=React&logoColor=white&logoSize=1000&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&logoSize=1000&style=for-the-badge)
