@@ -13,6 +13,7 @@ Learning
 ![NodeJS](https://img.shields.io/badge/NodeJS-5FA04E?logo=nodedotjs&logoColor=white&logoSize=1000&style=for-the-badge)
 
 - Collaboration, serious in work, outgoing
+- Hate Calculus
 - Member of Executive Committee of the Faculty of Software Engineering - University of Information Technology
 
 ---
