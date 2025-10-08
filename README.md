@@ -1,5 +1,6 @@
 # Hello World!👋 I'm Simp 
-I'm currently a **first year Software Engineering student** at University of Information Technology - VNU-HCM
+- My name is Nguyen Dinh Bao, you can call me Simp, Bao or Nguyen (this one can cause confusion so don't use it on public discussion)
+- I'm currently a **first year Software Engineering student** at University of Information Technology - VNU-HCM
 
 ---
 ## About me 🧑
